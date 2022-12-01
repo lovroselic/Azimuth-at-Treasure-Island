@@ -1,0 +1,5 @@
+input data:
+Stand at the pole with the plaque START
+go 140 feet by azimuth 332
+go 460 feet by azimuth 78
+Dig here!
